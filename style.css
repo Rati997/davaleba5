@@ -1,0 +1,16 @@
+.info.error {
+    background-color: blue;
+    width: 450px;
+    height: 35px;
+    border: 20px solid #0000CD; 
+    margin: 25px;
+    padding: 10px;
+    text-align: left; color: white;
+    }
+    .info {
+        background-color: yellow; 
+        width: 300px;  
+        border: 40px solid olive;
+        padding: 10px;
+        margin: 35px;
+        }
